@@ -1,0 +1,21 @@
+body
+	{
+		background-color: black ;
+		color: white ;
+		font-family: "Bahnschrift Light Condensed" ;
+		font-size: 14pt ;
+	}
+h1
+	{
+		text-align: center ;
+	}
+img
+	{
+		display: block ;
+		margin-left: 70pt ;
+	}
+li
+	{
+		text-align: justify ;
+		margin-left: 40px ;
+	}
